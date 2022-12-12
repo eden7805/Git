@@ -2,4 +2,4 @@ added this from github
 
 dont do this normaly
 
-we are practicting abd downwards flow
+we are practicting and downwards flow
